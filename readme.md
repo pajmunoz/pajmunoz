@@ -1,1 +1,1 @@
-![Screenshot](bg.png)
+![Screenshot](bgi.png)
